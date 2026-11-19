@@ -1,6 +1,7 @@
 # Finite Element Analysis of Rugby and American Football Goalposts
 
-**EPFL · Finite Element Modelling and Simulation · BA6 · 3 ECTS · Team of 4**
+**EPFL · BSc Mechanical Engineering (BA6) · Finite Element Modelling and Simulation · 3 ECTS ·** 
+**Academic group project · Team of four**
 
 **Abaqus · Finite Element Analysis · Structural Mechanics · Meshing**
 
@@ -8,7 +9,7 @@
 
 This project investigated the structural behaviour of rugby and American football goalposts using finite element analysis (FEA).
 
-The objective was to develop numerical models of both structures and examine their response to mechanical loading, focusing on **displacements, von Mises stresses, and the influence of mesh resolution**.
+The objective was to develop numerical models of both structures and examine their response to mechanical loading, focusing on displacements, von Mises stresses, and the influence of mesh resolution.
 
 ## Geometry and Modelling
 
